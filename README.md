@@ -1,6 +1,6 @@
 # Hey 👋🏾, 
 
-I’m a **Frontend Developer** focused on writing clean, scalable code and continuously improving the way I think, design, and build.
+I’m a **Software Developer** focused on writing clean, scalable code and continuously improving the way I think, design, and build.
 
 ---
 ## **Tech Stack**
@@ -8,6 +8,7 @@ I’m a **Frontend Developer** focused on writing clean, scalable code and conti
 * **Frontend:** React, Next.js, Tailwind CSS, TypeScript
 * **State Management:** Redux, Context API
 * **Backend:** Node.js, Express.js
-* **Database:** MongoDB, Prisma
+* **Database:** MongoDB, Postgress
+* **ORM:** Primsa, mongoose
 ---
 
