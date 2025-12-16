@@ -10,4 +10,4 @@ I’m a **Frontend Developer** focused on writing clean, scalable code and conti
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB, Prisma
 ---
-### *“Improving one commit at a time.”*
+
